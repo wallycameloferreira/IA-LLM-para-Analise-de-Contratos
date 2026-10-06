@@ -1,4 +1,6 @@
 # ⚖️ Sistema Jurídico IA
+<img width="1910" height="906" alt="Captura de tela 2026-10-05 232335" src="https://github.com/user-attachments/assets/d5155478-a2e8-4fb5-afdc-e2aa2c109bb5" />
+
 
 Assistente jurídico desenvolvido em **Python + Streamlit**, utilizando a API da **Groq** e o modelo `openai/gpt-oss-120b`.
 
